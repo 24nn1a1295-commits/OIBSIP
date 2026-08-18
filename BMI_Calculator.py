@@ -1,6 +1,6 @@
 """
 Advanced BMI Calculator - Task 2
-Author: Varsha Nalajala
+Author: Kalyani Pothuraju
 Description: GUI BMI calculator with SQLite storage and trend visualization.
 """
 
